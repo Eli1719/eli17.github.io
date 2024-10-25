@@ -1,0 +1,8 @@
+div i{
+    font-size: 30px;
+    cursor: pointer;
+    color: gray;
+
+    position: absolute;
+    right: 5%;
+}
